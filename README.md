@@ -1,2 +1,2 @@
 # testRepo
- This repo is being created to test the fucntionality with Unreal Engine5
+ This repo is being created to test the functionality with Unreal Engine 5
